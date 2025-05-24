@@ -27,10 +27,10 @@
 ### 🔥 Recent Projects
 
 Check out some of my recent work:
-- 📱 **AutonetGen** - Brief description of what it does
-- 🌐 **CalendarApp** - Brief description of what it does
+- [**AutonetGen**](https://github.com/vincenzo426/autonetgen/tree/mie-modifiche)
+- [**CalendarApp**](https://github.com/vincenzo426/quarkus-microservices-app)
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vincenzo-salvemini-a940a1195)
 
